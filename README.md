@@ -25,7 +25,7 @@ Dieses Projekt bietet ein Tool zum Erstellen und Konfigurieren von macOS-VMs auf
 2. **Visual Basic .NET Projekt**:
    - Lade das Repository herunter oder klone es mit Git:
      ```bash
-     git clone https://github.com/dein-benutzername/VirtualBox-VM-Setup.git
+     git clone https://github.com/xeonios-studio/VirtualBox-VM-Setup.git
      ```
    - Öffne das Projekt in Visual Studio.
    - Stelle sicher, dass alle erforderlichen .NET-Abhängigkeiten vorhanden sind.
