@@ -11,6 +11,13 @@ Dieses Projekt bietet ein Tool zum Erstellen und Konfigurieren von macOS-VMs auf
 - Automatische Auswahl der Festplatte und Netzwerkeinstellungen für die VM.
 - Möglichkeit, Secure Boot und weitere macOS-spezifische Einstellungen zu aktivieren.
 
+## OS-Support
+
+- Monterey.
+- Big Sur.
+- Ventura.
+- Catalina.
+
 ## Voraussetzungen
 
 - **Oracle VirtualBox**: Stelle sicher, dass Oracle VirtualBox installiert ist. Die `VBoxManage.exe` muss im angegebenen Verzeichnis vorhanden sein.
