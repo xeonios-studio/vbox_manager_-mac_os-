@@ -14,7 +14,7 @@ Dieses Projekt bietet ein Tool zum Erstellen und Konfigurieren von macOS-VMs auf
 ## Voraussetzungen
 
 - **Oracle VirtualBox**: Stelle sicher, dass Oracle VirtualBox installiert ist. Die `VBoxManage.exe` muss im angegebenen Verzeichnis vorhanden sein.
-- **.NET Framework 4.7.2** oder höher: Das Tool wurde mit Visual Basic .NET entwickelt und benötigt das .NET Framework zur Ausführung.
+- **.NET Framework 4.8.1** oder höher: Das Tool wurde mit Visual Basic .NET entwickelt und benötigt das .NET Framework zur Ausführung.
 - **macOS ISO-Datei**: Eine macOS-Installations-ISO-Datei wird benötigt, um macOS auf der VM zu installieren.
 
 ## Installation
