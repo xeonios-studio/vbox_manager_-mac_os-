@@ -1,4 +1,4 @@
-# VirtualBox VM Setup Tool
+# VirtualBox VM Setup Tool For Windows
 
 Dieses Projekt bietet ein Tool zum Erstellen und Konfigurieren von macOS-VMs auf Oracle VirtualBox unter Windows. Mit dieser Anwendung kannst du eine virtuelle Maschine (VM) für macOS erstellen, die nötigen Einstellungen vornehmen (z. B. CPU, RAM, Grafikspeicher) und eine ISO für die Installation auswählen.
 
